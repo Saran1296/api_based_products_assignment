@@ -1,0 +1,17 @@
+Original,Submission,Similarity,Label
+This is the original sentence.,This is the original sentence.,1.0000000000000002,1
+Artificial intelligence is transforming industries across the world.,Artificial intelligence is changing industries all over the world.,0.5507796339456278,1
+The sky is blue and beautiful.,The sky is blue.,0.7092972666062738,1
+Climate change is a major global concern.,Climate change is a big global concern.,0.716811741443062,1
+Python is a popular programming language.,Python is a popular programming language.,1.0000000000000002,1
+Machine learning helps systems improve automatically.,Machine learning helps systems improve by themselves.,0.6327904583679946,1
+Deep learning models need large datasets.,Deep learning requires a huge amount of data.,0.18443191662261307,1
+The car is fast and efficient.,The car is speedy and fuel efficient.,0.6327904583679949,1
+The movie was interesting and thrilling.,The film was exciting and engaging.,0.33609692727625745,1
+Machine learning is fun.,I like pizza.,0.0,0
+Python is a great language.,I use Java for backend.,0.0,0
+The sky is blue and beautiful.,Mountains are tall and rocky.,0.10163066979112656,0
+Dogs are loyal animals.,Computers execute programs quickly.,0.0,0
+He loves playing cricket.,She enjoys cooking pasta.,0.0,0
+The economy is growing steadily.,Birds are migrating to warmer regions.,0.0,0
+Reading books improves vocabulary.,Running daily boosts stamina.,0.0,0
